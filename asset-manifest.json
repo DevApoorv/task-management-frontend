@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://devapoorv.github.io/task-management-frontend\n/static/css/main.985582f7.css",
+    "main.js": "https://devapoorv.github.io/task-management-frontend\n/static/js/main.1f58dd3a.js",
+    "index.html": "https://devapoorv.github.io/task-management-frontend\n/index.html",
+    "main.985582f7.css.map": "https://devapoorv.github.io/task-management-frontend\n/static/css/main.985582f7.css.map",
+    "main.1f58dd3a.js.map": "https://devapoorv.github.io/task-management-frontend\n/static/js/main.1f58dd3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.985582f7.css",
+    "static/js/main.1f58dd3a.js"
+  ]
+}
